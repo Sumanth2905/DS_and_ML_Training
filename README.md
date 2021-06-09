@@ -1,2 +1,2 @@
-## Assignment 9
-[Assignment link](https://www.goeduhub.com/11612/logistic-regression-predicting-employee-attrition-learning)
+ #DS_and_ML_Training
+A repository to maintain the codes related to online training on DS and ML using Python from Goeduhub.
